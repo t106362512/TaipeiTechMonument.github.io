@@ -1,0 +1,49 @@
+{
+  "autoplayTransitionDelay" : 5,
+  "author" : "",
+  "timestamp" : "2018-10-10 0:12:4",
+  "loopSlideshow" : 0,
+  "filename" : "未命名",
+  "autoplayBuildDelay" : 2,
+  "comment" : "",
+  "title" : "未命名",
+  "showMode" : 0,
+  "creator" : "Apple Keynote 8.0.1",
+  "slideList" : [
+    "6D0BAE1D-51AE-4B08-B34F-EDB61972B08C",
+    "741B634A-C196-49AC-9E2A-DCF700CA2286",
+    "ABFB0052-4622-4DF2-9454-DFDEA9AF4468",
+    "11FB2E9A-2EE9-47C3-A719-974D5BEE41B2",
+    "2F8804F8-ACF4-488D-84F6-0AA806A64534",
+    "2FFD5910-7EF9-4767-BAAC-0AC995690732",
+    "9E715F91-CA1E-4384-B39B-94D277DDEF39",
+    "B7B8F82C-4AA2-4CC1-B50D-1ACA5086703E",
+    "4040EB51-7E70-42B0-91F0-59223D941D08",
+    "55D469F6-51E2-4EDD-AE51-81BEEAFED3C1",
+    "6C64BAB2-F847-404E-B17E-2658D4B92040",
+    "71A08EBA-0CA9-4960-8135-A7D3203C1D25",
+    "F592A8A0-DFAC-412C-9E76-5F4D2BC9D833",
+    "D99C8E7E-26AB-4294-8603-05B0AFB75352"
+  ],
+  "soundtrack" : {
+    "mode" : 0,
+    "volume" : 1
+  },
+  "slideWidth" : 1024,
+  "slideHeight" : 768,
+  "slideCount" : 14,
+  "majorVersion" : 1,
+  "minorVersion" : 2,
+  "fonts" : [
+    "GillSans-Light",
+    "HelveticaNeue",
+    "Times-Roman",
+    "Verdana",
+    "PingFangTC-Medium",
+    "ArialMT",
+    "Helvetica",
+    "GillSans",
+    "GillSans-Bold",
+    "PingFangTC-Regular"
+  ]
+}
